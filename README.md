@@ -30,12 +30,6 @@ npm run dev
 ```
 Then open the printed `localhost` URL.
 
-**Build for production:**
-```bash
-npm run build
-npm run preview
-```
-
 **Deploying:**
  Works out of the box on Vercel, Netlify, or any static host that builds Vite projects — no config needed. No backend, no API keys, no external calls — everything runs client-side with Math.random()-generated events.
 
